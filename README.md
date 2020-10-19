@@ -4,7 +4,7 @@
 ### 📫 How to reach me:
 ### -Personal Email: shaylah092@yahoo.com
 ### -Academic Email: shaylah1.fleming@famu.edu
-### -Linkedin: www.linkedin.com/in/shaylahfleming
+### -Linkedin: www.linkedin.com/in/shayflem
 <!--
 **shayflem/shayflem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
