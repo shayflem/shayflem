@@ -1,7 +1,7 @@
 ### Greetings, I am Shaylah "Shay" Fleming.👋 
 ### I'm a 2nd year computer engineering student at Florida A&M University. 
 ### ⚡Fun fact: I have never been to the Suwannee River although it's a major attraction in my county. 
-### 🌱 I’m currently learning C++ and Python
+### 🌱 I’m currently learning C++,Python, and Web development
 ### 📫 How to reach me:
 ### -Personal Email: shaylah092@yahoo.com
 ### -Academic Email: shaylah1.fleming@famu.edu
