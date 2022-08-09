@@ -1,6 +1,6 @@
 ### Greetings, I am Shaylah "Shay" Fleming.👋 
-### I'm a 3rd year computer engineering student at Florida A&M University. 
-### ⚡Fun fact: I've never had a Baja Blast.
+### I'm a 4th year computer engineering student at Florida A&M University. 
+### ⚡Fun fact: I LOVE Cap'n Crunch cereal.
 ### 🌱 I’m currently learning C++,Python, and Web development
 ### 📫 How to reach me:
 ### -Personal Email: shaylah092@yahoo.com
