@@ -1,4 +1,4 @@
-### Greetings, I am Shaylah "Shay" Fleming.👋 
+### Greetings, I am Shay Fleming.👋 
 ### I'm a 4th year computer engineering student at Florida A&M University. 
 ### ⚡Fun fact: I LOVE Cap'n Crunch cereal.
 ### 🌱 I’m currently learning C++,Python, and Web development
